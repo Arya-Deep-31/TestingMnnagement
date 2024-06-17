@@ -876,7 +876,7 @@ int main() {
 
     int choice;
     do {
-        cout << "\n++++++++++    Welcome to Incand Management 2024 System    +++++++++\n";
+        cout << "\n++++++++++    Welcome to Incand 2024 System Management System   +++++++++\n";
         cout << "\n1. Add New Visitor\n";
         cout << "2. Add Feedback\n";
         cout << "3. Know About Incand\n";
